@@ -1,0 +1,23 @@
+{
+  "name": "backtoworknodeapp",
+  "version": "1.0.0",
+  "description": "Back-To-Work Node endpoint",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "-",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
